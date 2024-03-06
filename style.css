@@ -1,0 +1,29 @@
+body {
+    margin: 0 auto;
+    display: grid;
+    justify-content: center;
+    background-color: aliceblue;
+}
+
+body h2 {
+    font-size: 50px;
+    border-bottom: 2px solid #000;
+}
+
+form {
+    margin: 0 auto;
+    justify-content: center;
+    font-size: 24px;
+}
+
+#botaoSubmit {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+
+
+
+
